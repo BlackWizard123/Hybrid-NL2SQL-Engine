@@ -1,4 +1,7 @@
-# Nectar NL2SQL  
+
+<img width="3464" height="1303" alt="Picsart_26-01-31_19-18-56-323" src="https://github.com/user-attachments/assets/309c1019-7b72-46d3-8fed-c421690a2d0f" />
+
+# Hybrid NL2SQL Engine - Natural language querying with semantic fallback.
 
 A personal project exploring Natural Language → SQL translation, semantic retrieval, and automated database syncing.
 
